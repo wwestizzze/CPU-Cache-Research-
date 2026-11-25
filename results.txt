@@ -1,0 +1,5 @@
+Array_Size,Sequential_ms,Strided_ms,Random_ms
+32 KB,0.006,0.018,0.007
+256 KB,0.039,0.141,0.076
+4 MB,0.606,2.794,3.968
+32 MB,5.028,33.833,67.646
